@@ -1,0 +1,12 @@
+{
+  "name": "minesweeper",
+  "short_description": "minesweeper on commandline",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "minesweeper.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
